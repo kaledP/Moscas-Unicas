@@ -1,0 +1,149 @@
+p {
+  font-size: 20px;
+  font-family: "tahoma";
+  font-weight: bold; }
+
+p {
+  font-size: 40px; }
+
+body h1 {
+  font-size: 5em; }
+
+body h2 {
+  font-size: 4em; }
+
+div {
+  background-color: #3673D9;
+  text-align: center;
+  padding: 1rem;
+  font-size: 35px;
+  color: white; }
+
+.paddingTB {
+  padding: 50px 50px; }
+
+.paddingLR {
+  padding: 20px 20px; }
+
+h1 {
+  color: blue;
+  font-size: 5em; }
+
+h2 {
+  color: red;
+  font-size: 4em; }
+
+/*variables*/
+background:linear-gradient(to bottom, black, yellow) .texto__encabezado {
+  color: yellow; }
+
+.texto__parrafo {
+  font-size: 20px; }
+  .texto__parrafo--color {
+    color: blue; }
+    @media only screen and (max-width768px) {
+      .texto__parrafo--color {
+        color: yellow; } }
+
+.blue {
+  color: blue; }
+
+.black {
+  color: black; }
+
+.yellow {
+  color: yellow; }
+
+p {
+  font-size: 20px;
+  font-family: "tahoma";
+  font-weight: bold; }
+
+p {
+  font-size: 40px; }
+
+body h1 {
+  font-size: 5em; }
+
+body h2 {
+  font-size: 4em; }
+
+div {
+  background-color: #3673D9;
+  text-align: center;
+  padding: 1rem;
+  font-size: 35px;
+  color: white; }
+
+.paddingTB {
+  padding: 50px 50px; }
+
+.paddingLR {
+  padding: 20px 20px; }
+
+h1 {
+  color: blue;
+  font-size: 5em; }
+
+h2 {
+  color: red;
+  font-size: 4em; }
+
+.col-50 {
+  width: 50%; }
+
+.col-1 {
+  width: 10%; }
+
+.col-2 {
+  width: 20%; }
+
+.col-3 {
+  width: 30%; }
+
+.col-4 {
+  width: 40%; }
+
+.col-5 {
+  width: 50%; }
+
+.col-6 {
+  width: 60%; }
+
+.col-7 {
+  width: 70%; }
+
+.col-8 {
+  width: 80%; }
+
+.col-9 {
+  width: 90%; }
+
+.col-10 {
+  width: 100%; }
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+.btn, .btn--aceptar, .btn--cancelar, .btn--nada {
+  width: 150px;
+  heigth: 50px;
+  border: 1px solid white;
+  border-radius: 50px;
+  color: black;
+  background-color: white;
+  text-align: center; }
+
+.btn--aceptar {
+  background-color: green;
+  color: white; }
+
+.btn--cancelar {
+  background-color: red;
+  color: white; }
+
+.btn--nada {
+  background-color: blue;
+  color: yellow; }
